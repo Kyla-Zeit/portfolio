@@ -129,8 +129,8 @@ I build responsive web applications, backend systems, and interactive tools usin
 
 - **Languages:** C#, Java, Python, TypeScript, SQL, HTML, CSS
 - **Frameworks & Libraries:** ASP.NET Core, React, Angular, Spring Boot
-- **Databases:** SQLite, H2, relational database design
-- **Tools & Workflow:** Git, Docker, GitHub Actions, VS Code, Agile development
+- **Databases:** SQLite, SQL, H2, Relational Database Design
+- **Tools & Workflow:** Git, Docker, VS Code, VS, Eclipse, Android Studio, Vite
 
 ---
 
