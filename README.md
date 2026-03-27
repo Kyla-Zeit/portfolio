@@ -116,7 +116,7 @@ I build responsive web applications, backend systems, and interactive tools usin
 
 ## 🛠 Tech Stack
 
-**Technical Languages:** C#, Java, Python, TypeScript, SQL, HTML, CSS
+* **Technical Languages:** C#, Java, Python, TypeScript, SQL, HTML, CSS
 * **Frameworks:** ASP.NET Core, RESTful APIs
 * **Systems:** Windows, Linux, macOS, CLI, Containerized, Virtualized
 * **Tools:** Git, Docker, CRM Systems, OSINT, Agile, Machine Learning
