@@ -30,6 +30,17 @@ I build responsive web applications, backend systems, and interactive tools usin
 
 ---
 
+### Samawada
+
+* Modern nonprofit website concept focused on expanding access to clean water in East Africa
+* Designed for clarity, performance, and easy content updates
+* Deployed via GitHub Pages
+
+🔗 Live: https://kyla-zeit.github.io/samawada/
+🔗 Repo: https://github.com/Kyla-Zeit/samawada
+
+---
+
 ## 📱 Applications
 
 ### IntelliCasePro
