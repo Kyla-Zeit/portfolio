@@ -2,7 +2,7 @@
 
 Full-stack developer with a background in investigations, bringing strong analytical thinking, attention to detail, and real-world problem-solving into software development.
 
-I build responsive web applications, backend systems, and interactive tools using modern frameworks and clean architecture.
+I build responsive web applications, backend systems, and user-focused tools with an emphasis on usability, performance, and maintainable code.
 
 ---
 
@@ -21,9 +21,9 @@ I build responsive web applications, backend systems, and interactive tools usin
 
 ### Nature Canada
 
-* ?
-* ?
-* ?
+* Modern conservation website concept focused on environmental awareness and advocacy
+* Built with responsive layouts, smooth navigation, and a clean, content-driven interface
+* Developed as a multi-page front-end project using HTML, CSS, and JavaScript
 
 🔗 Live: https://kyla-zeit.github.io/nature-canada
 🔗 Repo: https://github.com/Kyla-Zeit/nature-canada
