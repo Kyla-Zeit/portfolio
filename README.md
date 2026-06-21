@@ -57,11 +57,13 @@ I build responsive web applications, backend systems, and user-focused tools wit
 ### IntelliCasePro
 
 * Full-stack case management system for investigative workflows
-* Built with ASP.NET Core 8 MVC and Razor Views
-* Features authentication, role-based access, and reporting tools
+* Web app: ASP.NET Core 8 MVC, EF Core, SQLite, Docker
+* Android app: Kotlin, Jetpack Compose, Material 3
+* Features authentication, case tracking, evidence management, billing, calendar, and reporting
 * Dockerized for deployment
 
-**Tech:** C#, ASP.NET Core, EF Core, SQLite, Docker
+**Tech:** ASP.NET Core 8 MVC, Razor Views, EF Core, SQLite, Docker, Kotlin, Jetpack Compose, Material 3, Android Studio, Gradle  
+**Platforms:** Web, Android
 
 🔗 Repo: https://github.com/Kyla-Zeit/intellicase-pro
 
