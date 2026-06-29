@@ -19,6 +19,17 @@ I build responsive web applications, backend systems, and user-focused tools wit
 
 ---
 
+### THRIVE Website Redesign
+
+* React and TypeScript concept redesign for THRIVE Social Services Society
+* Focus on improved information architecture, dual client/donor pathways, accessibility, and responsive UX
+* Built with modular components, modern styling, scroll-reveal interactions, and GitHub Pages deployment
+
+🔗 Live: https://kyla-zeit.github.io/thrive/
+🔗 Repo: https://github.com/Kyla-Zeit/thrive
+
+---
+
 ### Nature Canada
 
 * Modern conservation website concept focused on environmental awareness and advocacy
@@ -161,4 +172,3 @@ I build responsive web applications, backend systems, and user-focused tools wit
 * Expanding .NET and backend architecture skills
 * Building production-ready full-stack applications
 * Transitioning into a full-time software development role
-
