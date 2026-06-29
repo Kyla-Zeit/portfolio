@@ -92,6 +92,18 @@ I build responsive web applications, backend systems, and user-focused tools wit
 
 ---
 
+### Bespoke Ops Android
+
+* Working Android prototype for an internal real estate operations platform
+* Includes agent request intake, listing launch workflows, AI draft review, offer summaries, marketing queue coordination, and compliance reminders
+* Demonstrates CRM, Gmail, Sheets, Canva, and automation handoff concepts with fictional demo records
+
+**Tech:** Android, Android Studio, APK Demo
+
+🔗 Repo: https://github.com/Kyla-Zeit/BespokeOpsAndroid
+
+---
+
 ### Niagara Event Finder
 
 * Full-stack event discovery platform
