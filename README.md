@@ -151,9 +151,8 @@ I build responsive web applications, backend systems, and user-focused tools wit
 
 ## 🛠 Tech Stack
 
-- **Languages:** C#, Java, Python, TypeScript, SQL, HTML, CSS
+- **Technical Languages:** C#, Java, Python, TypeScript, SQL, HTML, CSS
 - **Frameworks & Libraries:** ASP.NET Core, React, Angular, Spring Boot
-- **Databases:** SQLite, SQL, H2, Relational Database Design
 - **Tools & Workflow:** Git, Docker, VS Code, VS, Eclipse, Android Studio, Vite
 
 ---
