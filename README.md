@@ -92,7 +92,7 @@ I build responsive web applications, backend systems, and user-focused tools wit
 
 ---
 
-### Bespoke Ops Android
+### BespokeOps Android
 
 * Working Android prototype for an internal real estate operations platform
 * Includes agent request intake, listing launch workflows, AI draft review, offer summaries, marketing queue coordination, and compliance reminders
