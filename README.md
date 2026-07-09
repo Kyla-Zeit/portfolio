@@ -30,14 +30,14 @@ I build responsive web applications, backend systems, and user-focused tools wit
 
 ---
 
-### Nature Canada
+### Ontario College of Family Physicians
 
-* Modern conservation website concept focused on environmental awareness and advocacy
-* Built with responsive layouts, smooth navigation, and a clean, content-driven interface
-* Developed as a multi-page front-end project using HTML, CSS, and JavaScript
+* React and TypeScript website redesign concept for the Ontario College of Family Physicians
+* Focus on member resources, practice supports, advocacy, events, leadership, accessibility, and responsive UX
+* Built with reusable components, route-based pages, modern healthcare association styling, and GitHub Pages deployment
 
-🔗 Live: https://kyla-zeit.github.io/nature-canada
-🔗 Repo: https://github.com/Kyla-Zeit/nature-canada
+🔗 Live: https://kyla-zeit.github.io/ontario-college-of-family-physicians/
+🔗 Repo: https://github.com/Kyla-Zeit/ontario-college-of-family-physicians
 
 ---
 
