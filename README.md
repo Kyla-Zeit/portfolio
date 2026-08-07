@@ -41,14 +41,14 @@ I build responsive web applications, backend systems, and user-focused tools wit
 
 ---
 
-### The Mitch & Joe Show
+### The Mitch & Pete Show
 
 * Fully responsive Angular website with dark UI
 * Includes booking-focused contact form and smooth navigation
 * Mobile-first design considerations
 
-🔗 Live: https://kyla-zeit.github.io/the-mitch-and-joe-show
-🔗 Repo: https://github.com/Kyla-Zeit/the-mitch-and-joe-show
+🔗 Live: https://kyla-zeit.github.io/the-mitch-and-pete-show
+🔗 Repo: https://github.com/Kyla-Zeit/the-mitch-and-pete-show
 
 ---
 
@@ -77,6 +77,21 @@ I build responsive web applications, backend systems, and user-focused tools wit
 **Platforms:** Web, Android
 
 🔗 Repo: https://github.com/Kyla-Zeit/intellicase-pro
+
+---
+
+### FairScreen
+
+* Local-first, AI-assisted interview practice application designed to improve the substance of candidates’ answers
+* Generates role-aware questions from job and résumé context and supports text-only, microphone, camera, and combined recording modes
+* Provides transcript review, tailored coaching, stronger-answer suggestions, saved sessions, reports, and privacy-focused browser storage
+* Uses on-device MediaPipe video-condition analysis, browser speech recognition, deterministic transcript analysis, and graceful fallbacks when optional dependencies fail
+* Deployed through GitHub Pages with automated CI, unit and integration testing, security scans, and Playwright browser coverage
+
+**Tech:** React, TypeScript, Vite, IndexedDB, MediaPipe, MediaRecorder, Web Speech API, PDF.js, Mammoth, Vitest, Playwright, GitHub Actions
+
+🔗 Live: https://kyla-zeit.github.io/fairscreen/
+🔗 Repo: https://github.com/Kyla-Zeit/fairscreen
 
 ---
 
@@ -153,7 +168,7 @@ I build responsive web applications, backend systems, and user-focused tools wit
 
 ## 🧪 Additional Projects
 
-* alam-car-care
+* alam-coach
 * kilashbeauty
 * diaspora-film-festival
 * starfall-protocol
