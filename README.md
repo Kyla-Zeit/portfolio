@@ -41,14 +41,14 @@ I build responsive web applications, backend systems, and user-focused tools wit
 
 ---
 
-### The Mitch & Pete Show
+### The Mitch & Joe Show
 
 * Fully responsive Angular website with dark UI
 * Includes booking-focused contact form and smooth navigation
 * Mobile-first design considerations
 
-🔗 Live: https://kyla-zeit.github.io/the-mitch-and-pete-show
-🔗 Repo: https://github.com/Kyla-Zeit/the-mitch-and-pete-show
+🔗 Live: https://kyla-zeit.github.io/the-mitch-and-joe-show
+🔗 Repo: https://github.com/Kyla-Zeit/the-mitch-and-joe-show
 
 ---
 
@@ -168,7 +168,7 @@ I build responsive web applications, backend systems, and user-focused tools wit
 
 ## 🧪 Additional Projects
 
-* alam-coach
+* alam-car-care
 * kilashbeauty
 * diaspora-film-festival
 * starfall-protocol
