@@ -1,11 +1,3 @@
-# Rebecca Maguire – Full Stack Developer
-
-Full-stack developer with a background in investigations, bringing strong analytical thinking, attention to detail, and real-world problem-solving into software development.
-
-I build responsive web applications, backend systems, and user-focused tools with an emphasis on usability, performance, and maintainable code.
-
----
-
 ## 📱 Applications
 
 ### IntelliCasePro
@@ -192,23 +184,5 @@ I build responsive web applications, backend systems, and user-focused tools wit
 
 ## 🛠 Tech Stack
 
-- **Technical Languages:** C#, Java, Python, TypeScript, SQL, HTML, CSS
-- **Frameworks & Libraries:** ASP.NET Core, React, Angular, Spring Boot
-- **Tools & Workflow:** Git, Docker, VS Code, VS, Eclipse, Android Studio, Vite
-
----
-
-## 📌 About Me
-
-* 5+ years of development experience
-* Senior Investigator since 2016 (analytical + detail-driven mindset)
-* Strong experience in full-stack web applications
-* Passionate about building practical, real-world software
-
----
-
-## 🚀 Current Focus
-
-* Expanding .NET and backend architecture skills
-* Building production-ready full-stack applications
-* Transitioning into a full-time software development role
+- **Core Tech:** C#, TypeScript/JavaScript, Python, Java, SQL, React, Node.js, ASP.NET Core, Angular, Spring
+Boot, EF Core, SQLite, Docker, GitHub Actions, Git, Playwright, Vite
