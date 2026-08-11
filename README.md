@@ -6,6 +6,99 @@ I build responsive web applications, backend systems, and user-focused tools wit
 
 ---
 
+## 📱 Applications
+
+### IntelliCasePro
+
+* Full-stack case management system for investigative workflows
+* Web app: ASP.NET Core 8 MVC, EF Core, SQLite, Docker
+* Android app: Kotlin, Jetpack Compose, Material 3
+* Features authentication, case tracking, evidence management, billing, calendar, and reporting
+* Dockerized for deployment
+
+**Tech:** ASP.NET Core 8 MVC, Razor Views, EF Core, SQLite, Docker, Kotlin, Jetpack Compose, Material 3, Android Studio, Gradle  
+**Platforms:** Web, Android
+
+🔗 Repo: https://github.com/Kyla-Zeit/intellicase-pro
+
+---
+
+### FairScreen
+
+* Local-first, AI-assisted interview practice application designed to improve the substance of candidates’ answers
+* Generates role-aware questions from job and résumé context and supports text-only, microphone, camera, and combined recording modes
+* Provides transcript review, tailored coaching, stronger-answer suggestions, saved sessions, reports, and privacy-focused browser storage
+* Uses on-device MediaPipe video-condition analysis, browser speech recognition, deterministic transcript analysis, and graceful fallbacks when optional dependencies fail
+* Deployed through GitHub Pages with automated CI, unit and integration testing, security scans, and Playwright browser coverage
+
+**Tech:** React, TypeScript, Vite, IndexedDB, MediaPipe, MediaRecorder, Web Speech API, PDF.js, Mammoth, Vitest, Playwright, GitHub Actions
+
+🔗 Live: https://kyla-zeit.github.io/fairscreen/
+🔗 Repo: https://github.com/Kyla-Zeit/fairscreen
+
+---
+
+### SignalRoute
+
+* AI-assisted GTM automation prototype for inbound revenue workflows
+* Processes CRM lead events through deterministic enrichment, explainable qualification and scoring, account research, lead routing, and personalized outreach
+* Includes human review before CRM synchronization, with editable outreach, approve/reject controls, audit history, GTM metrics, and qualification evals
+* Uses SQLite persistence and a tool-assisted research architecture, with optional HubSpot and OpenAI adapters when credentials are supplied
+* Includes automated build, unit-test, and standalone demo verification through GitHub Actions
+
+**Tech:** React, TypeScript, Vite, Node.js, Express, SQLite, Vitest, Docker, GitHub Actions
+
+🔗 Repo: https://github.com/Kyla-Zeit/signalroute
+
+---
+
+### Storm Chaser App
+
+* Weather tracking and storm documentation application
+* Supports photo capture, metadata logging, and local storage
+* Designed for both desktop and mobile usage
+
+**Tech:** React, Vite, IndexedDB, APIs
+
+🔗 Repo: https://github.com/Kyla-Zeit/storm-chaser-app
+
+---
+
+### BespokeOps Android
+
+* Working Android prototype for an internal real estate operations platform
+* Includes agent request intake, listing launch workflows, AI draft review, offer summaries, marketing queue coordination, and compliance reminders
+* Demonstrates CRM, Gmail, Sheets, Canva, and automation handoff concepts with fictional demo records
+
+**Tech:** Android, Android Studio, APK Demo
+
+🔗 Repo: https://github.com/Kyla-Zeit/BespokeOpsAndroid
+
+---
+
+### Niagara Event Finder
+
+* Full-stack event discovery platform
+* Backend API with Spring Boot and H2 database
+* Frontend built with React
+
+**Tech:** React, Spring Boot, Java, H2
+
+🔗 Repo: https://github.com/Kyla-Zeit/niagara-event-finder
+
+---
+
+### FleetOps Support Hub
+
+* RESTful API simulating internal support operations
+* Manages client accounts, support tickets, and releases
+
+**Tech:** C#, ASP.NET Core Web API, EF Core, SQLite
+
+🔗 Repo: https://github.com/Kyla-Zeit/fleetops-support-hub
+
+---
+
 ## 🌐 Websites
 
 ### Samaritan’s Purse Redesign
@@ -60,85 +153,6 @@ I build responsive web applications, backend systems, and user-focused tools wit
 
 🔗 Live: https://kyla-zeit.github.io/samawada/
 🔗 Repo: https://github.com/Kyla-Zeit/samawada
-
----
-
-## 📱 Applications
-
-### IntelliCasePro
-
-* Full-stack case management system for investigative workflows
-* Web app: ASP.NET Core 8 MVC, EF Core, SQLite, Docker
-* Android app: Kotlin, Jetpack Compose, Material 3
-* Features authentication, case tracking, evidence management, billing, calendar, and reporting
-* Dockerized for deployment
-
-**Tech:** ASP.NET Core 8 MVC, Razor Views, EF Core, SQLite, Docker, Kotlin, Jetpack Compose, Material 3, Android Studio, Gradle  
-**Platforms:** Web, Android
-
-🔗 Repo: https://github.com/Kyla-Zeit/intellicase-pro
-
----
-
-### FairScreen
-
-* Local-first, AI-assisted interview practice application designed to improve the substance of candidates’ answers
-* Generates role-aware questions from job and résumé context and supports text-only, microphone, camera, and combined recording modes
-* Provides transcript review, tailored coaching, stronger-answer suggestions, saved sessions, reports, and privacy-focused browser storage
-* Uses on-device MediaPipe video-condition analysis, browser speech recognition, deterministic transcript analysis, and graceful fallbacks when optional dependencies fail
-* Deployed through GitHub Pages with automated CI, unit and integration testing, security scans, and Playwright browser coverage
-
-**Tech:** React, TypeScript, Vite, IndexedDB, MediaPipe, MediaRecorder, Web Speech API, PDF.js, Mammoth, Vitest, Playwright, GitHub Actions
-
-🔗 Live: https://kyla-zeit.github.io/fairscreen/
-🔗 Repo: https://github.com/Kyla-Zeit/fairscreen
-
----
-
-### Storm Chaser App
-
-* Weather tracking and storm documentation application
-* Supports photo capture, metadata logging, and local storage
-* Designed for both desktop and mobile usage
-
-**Tech:** React, Vite, IndexedDB, APIs
-
-🔗 Repo: https://github.com/Kyla-Zeit/storm-chaser-app
-
----
-
-### BespokeOps Android
-
-* Working Android prototype for an internal real estate operations platform
-* Includes agent request intake, listing launch workflows, AI draft review, offer summaries, marketing queue coordination, and compliance reminders
-* Demonstrates CRM, Gmail, Sheets, Canva, and automation handoff concepts with fictional demo records
-
-**Tech:** Android, Android Studio, APK Demo
-
-🔗 Repo: https://github.com/Kyla-Zeit/BespokeOpsAndroid
-
----
-
-### Niagara Event Finder
-
-* Full-stack event discovery platform
-* Backend API with Spring Boot and H2 database
-* Frontend built with React
-
-**Tech:** React, Spring Boot, Java, H2
-
-🔗 Repo: https://github.com/Kyla-Zeit/niagara-event-finder
-
----
-
-### FleetOps Support Hub
-
-* RESTful API simulating internal support operations
-* Manages client accounts, support tickets, and releases
-
-**Tech:** C#, ASP.NET Core Web API, EF Core, SQLite
-
-🔗 Repo: https://github.com/Kyla-Zeit/fleetops-support-hub
 
 ---
 
