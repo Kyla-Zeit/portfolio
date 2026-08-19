@@ -80,17 +80,6 @@
 
 ---
 
-### FleetOps Support Hub
-
-* RESTful API simulating internal support operations
-* Manages client accounts, support tickets, and releases
-
-**Tech:** C#, ASP.NET Core Web API, EF Core, SQLite
-
-🔗 Repo: https://github.com/Kyla-Zeit/fleetops-support-hub
-
----
-
 ## 🌐 Websites
 
 ### Samaritan’s Purse Redesign
