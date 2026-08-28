@@ -30,6 +30,22 @@
 
 ---
 
+### PocketTicker
+
+* Mobile financial & cryptocurrency market tracking application featuring real-time market data, interactive sparklines, multi-timeframe price charts, and global asset search
+* Local-first architecture with persistent storage for custom watchlists, simulated portfolio holdings with real-time P&L tracking, and user-defined threshold price alerts
+* Hardware-backed biometric authentication (Face ID, fingerprint, and device passcode) backed by Android Keystore with a cold-start privacy gate
+* Background price alert monitoring engine powered by Android JobScheduler (`react-native-background-fetch`) and native local notifications (`@notifee/react-native`)
+* Decoupled provider architecture with runtime Zod schema validation, supporting credential-free offline mock data and live CoinGecko market data feeds
+* Tested with comprehensive automated test suites covering API clients, storage repositories, background evaluation tasks, and biometric gateways
+
+**Tech:** React Native, TypeScript, React Navigation, TanStack Query, Zod, MMKV, Notifee, react-native-keychain, react-native-background-fetch, Jest, GitHub Actions  
+**Platforms:** Android, iOS
+
+🔗 Repo: https://github.com/Kyla-Zeit/PocketTicker
+
+---
+
 ### SignalRoute
 
 * AI-assisted GTM automation prototype for inbound revenue workflows
@@ -173,5 +189,4 @@
 
 ## 🛠 Tech Stack
 
-- **Core Tech:** C#, TypeScript/JavaScript, Python, Java, SQL, React, Node.js, ASP.NET Core, Angular, Spring
-Boot, EF Core, SQLite, Docker, GitHub Actions, Git, Playwright, Vite
+- **Core Tech:** C#, TypeScript/JavaScript, Python, Java, SQL, React, React Native, Node.js, ASP.NET Core, Angular, Spring Boot, EF Core, SQLite, Docker, GitHub Actions, Git, Playwright, Vite
